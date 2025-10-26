@@ -1,2 +1,2 @@
-# AplikasiPerhitunganHari.
-Tugas 4 - Muhammad Fikriza Akbar
+# AplikasiPerhitunganHari
+Tugas 4-Galuh Uliasari(2310010117)
